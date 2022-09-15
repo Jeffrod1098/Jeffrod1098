@@ -6,7 +6,7 @@ Software Developer
 
 I'm a software developer, that newly graduated from the SEI immersive held at General Assembly. I'm a former park ranger with an accounting background. I have a high drive for learning new things and diversifying my knowledge. I'm an avid gamer and sports fanatic.
 
-* 🌍  I'm based in New York
+* 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [Take a look at my Portfolio](http://jeffrod1098.github.io/portfolio/)
 * ✉️  You can contact me at [mrjeffrey1011@gmail.com](mailto:mrjeffrey1011@gmail.com)
 * 🚀  I'm currently working on [Mock web store](http://in_process)
