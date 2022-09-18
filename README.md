@@ -9,7 +9,7 @@ I'm a software developer, that newly graduated from the SEI immersive held at Ge
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [Take a look at my Portfolio](http://jeffrod1098.github.io/portfolio/)
 * ✉️  You can contact me at [mrjeffrey1011@gmail.com](mailto:mrjeffrey1011@gmail.com)
-* 🚀  I'm currently working on [Mock web store](http://in_process)
+* 🚀  I'm currently working on [mock web store](http://in_process)
 * 🧠  I'm currently learning Python, Django and Redux
 * ⚡  Always digging around to find new technologies to keep my self DRY
 
