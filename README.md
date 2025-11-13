@@ -2,10 +2,10 @@
 =========================================================================================================================================
 
 
-Software Developer
+Software Engineer
 ------------------
 
-I'm a software engineer, at UPMC. I'm a former park ranger with an accounting background. I have a high drive for learning new things and diversifying my knowledge. I'm an avid gamer and a New York sports fanatic.
+I'm a software engineer, at UPMC since 2023. I'm a former park ranger with an accounting background. I have a high drive for learning new things and diversifying my knowledge. I'm an avid gamer and a New York sports fanatic.
 
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [http://jeffrod1098.github.io/portfolio/](http://jeffrod1098.github.io/portfolio/)
