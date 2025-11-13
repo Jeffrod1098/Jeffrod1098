@@ -1,18 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeffrey Rodriguez
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi my name is Jeffrey Rodriguez
 =========================================================================================================================================
 
 
 Software Developer
 ------------------
 
-I'm a software developer, that newly graduated from the SEI immersive held at General Assembly. I'm a former park ranger with an accounting background. I have a high drive for learning new things and diversifying my knowledge. I'm an avid gamer and sports fanatic.
+I'm a software engineer, at UPMC. I'm a former park ranger with an accounting background. I have a high drive for learning new things and diversifying my knowledge. I'm an avid gamer and a New York sports fanatic.
 
 * 🌍  I'm based in New York City
 * 🖥️  See my portfolio at [http://jeffrod1098.github.io/portfolio/](http://jeffrod1098.github.io/portfolio/)
 * ✉️  You can contact me at [mrjeffrey1011@gmail.com](mailto:mrjeffrey1011@gmail.com)
-* 🚀  I'm currently working on mock webstore [(Frontend repo link)](https://github.com/Jeffrod1098/webStoreFrontend)   [(Backend repo link)](https://github.com/Jeffrod1098/web_store_django_backend)
-* 🧠  I'm currently learning Python, Django and Redux
-* ⚡  Always digging around to find new technologies to keep my self DRY
+* 🚀  I'm currently working on alternate street side parking notifier [(Deployed site)](https://www.aspnycnotifier.com/)
+* 🧠  I'm currently learning Angular, and the Azure deployment tools
+* ⚡  Always looking to connect and learn 
 
 ### Skills
 
